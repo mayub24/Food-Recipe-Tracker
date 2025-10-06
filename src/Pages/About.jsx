@@ -8,11 +8,11 @@ const About = () => {
 
         <section className="space-y-8 text-lg leading-relaxed">
           <p>
-            Welcome to <span className="font-semibold text-[tomato]">Food Recipe Tracker</span> — your personal companion in the world of food discovery.
+            Welcome to <span className="font-semibold text-[tomato]">Recipe Finder</span> — your personal companion in the world of food discovery.
           </p>
 
           <p>
-            We believe that every meal tells a story. Whether you're exploring global cuisines, searching for the perfect recipe, or simply curious about what’s cooking in your region, Food Recipe Tracker is here to guide you.
+            We believe that every meal tells a story. Whether you're exploring global cuisines, searching for the perfect recipe, or simply curious about what’s cooking in your region, Recipe Finder is here to guide you.
           </p>
 
           <div>

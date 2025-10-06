@@ -14,7 +14,7 @@ const Navbar = () => {
               alt="Logo"
               className="h-20 w-20 object-contain"
             />
-            <span className="text-2xl font-bold">Food Recipe Tracker</span>
+            <span className="text-2xl font-bold">Recipe Finder</span>
           </div>
 
           <div className="space-x-6 text-lg font-medium">
